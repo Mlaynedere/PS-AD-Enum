@@ -40,6 +40,12 @@ To get information about a specific group:
 .\script.ps1 -GroupName "GroupName"
 ```
 ## Example Output
-Get all file shares:
+-Get all file shares
+![image](https://github.com/Mlaynedere/PS-AD-Enum/assets/117475642/ddf70135-abe3-42bb-aa3c-41a13a4ed2fb)
+
+```plaintext
+Here I ran the script on a sample Windows Server virtual machine
+```
+Feel free to modify and extend this script according to your needs!
 
 
