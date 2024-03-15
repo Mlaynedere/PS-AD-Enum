@@ -14,7 +14,7 @@ To use this script, run it in a PowerShell environment with the desired options:
 .\script.ps1 -GetFileShares
 .\script.ps1 -GroupName "GroupName"
 
-##Options
+## Options
 ### GetDomainGroups
 Retrieves all domain groups.
 
