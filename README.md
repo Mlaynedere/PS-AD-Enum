@@ -30,8 +30,16 @@ Retrieves all group policy objects.
 ### GetFileShares
 Obtains information about file shares.
 
-# GroupName
+### GroupName
 Provides information about a specific group in the domain.
 
-# Example
+## Example
 To get information about a specific group:
+
+```powershell
+.\script.ps1 -GroupName "GroupName"
+```
+## Example Output
+Get all file shares:
+
+
