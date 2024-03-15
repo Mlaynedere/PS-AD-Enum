@@ -71,11 +71,3 @@ if ($GetFileShares) {
     Write-Host "-------------------------------"
     Get-SmbShare
 }
-
-# Example of running the script with options
-# .\script.ps1 -GetDomainGroups
-# .\script.ps1 -GetAllComputers
-# .\script.ps1 -GetOSInfo
-# .\script.ps1 -GetGroupPolicyObjects
-# .\script.ps1 -GetFileShares
-# .\script.ps1 -GroupName "GroupName"
