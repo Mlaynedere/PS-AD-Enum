@@ -15,24 +15,24 @@ To use this script, run it in a PowerShell environment with the desired options:
 .\script.ps1 -GetFileShares
 .\script.ps1 -GroupName "GroupName"
 
-Options
-GetDomainGroups
+## Options
+# GetDomainGroups
 Retrieves all domain groups.
 
-GetAllComputers
+# GetAllComputers
 Lists all computers in the domain.
 
-GetOSInfo
+# GetOSInfo
 Fetches operating system information for all computers in the domain.
 
-GetGroupPolicyObjects
+# GetGroupPolicyObjects
 Retrieves all group policy objects.
 
-GetFileShares
+# GetFileShares
 Obtains information about file shares.
 
-GroupName
+# GroupName
 Provides information about a specific group in the domain.
 
-Example
+# Example
 To get information about a specific group:
