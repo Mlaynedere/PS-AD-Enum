@@ -1,5 +1,4 @@
 # PS-AD-Enum
-# Active Directory Management Script
 
 This PowerShell script allows you to manage various aspects of Active Directory, such as retrieving domain groups, listing all computers, fetching OS information, retrieving group policy objects, and obtaining file share information.
 
@@ -16,19 +15,19 @@ To use this script, run it in a PowerShell environment with the desired options:
 .\script.ps1 -GroupName "GroupName"
 
 ## Options
-# GetDomainGroups
+### GetDomainGroups
 Retrieves all domain groups.
 
-# GetAllComputers
+### GetAllComputers
 Lists all computers in the domain.
 
-# GetOSInfo
+### GetOSInfo
 Fetches operating system information for all computers in the domain.
 
-# GetGroupPolicyObjects
+### GetGroupPolicyObjects
 Retrieves all group policy objects.
 
-# GetFileShares
+### GetFileShares
 Obtains information about file shares.
 
 # GroupName
